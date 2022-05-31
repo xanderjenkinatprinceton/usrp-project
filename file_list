@@ -1,0 +1,26 @@
+total 128
+drwx------.    7 xj3621 student  4096 May 31 12:22 .
+drwxr-xr-x. 2377 root   root    57344 May 31 11:39 ..
+drwxr-xr-x.    2 xj3621 student    10 May 31 12:21 1
+-rw-------.    1 xj3621 student    10 May 31 11:22 .bash_history
+-rw-r--r--.    1 xj3621 student    18 May 24 15:11 .bash_logout
+-rw-r--r--.    1 xj3621 student   141 May 24 15:11 .bash_profile
+-rw-r--r--.    1 xj3621 student   376 May 24 15:11 .bashrc
+-rw-r--r--.    1 xj3621 student   334 May 24 15:11 .emacs
+drwxr-xr-x.    2 xj3621 student    10 May 31 12:21 excercise
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file1
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file10
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file2
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file3
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file4
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file5
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file6
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file7
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file8
+-rw-r--r--.    1 xj3621 student     0 May 31 12:21 file9
+-rw-r--r--.    1 xj3621 student     0 May 31 12:25 file_list
+-rw-r--r--.    1 xj3621 student   172 May 24 15:11 .kshrc
+drwxr-xr-x.    4 xj3621 student    51 May 24 15:11 .mozilla
+drwx------.    2 xj3621 student    10 May 24 15:11 .ssh
+drwxr-xr-x.    3 xj3621 student    67 May 31 12:01 usrp_test
+-rw-r--r--.    1 xj3621 student   658 May 24 15:11 .zshrc
